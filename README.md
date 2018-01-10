@@ -2,28 +2,14 @@
 
 color game using vanilla js
 
-### What is this repository for? ###
+This game is exercise which as a part of the web development bootcamp conducted by colt-steele.It is same game which he taught in the course.Small changes and some features have been added to the game
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+# FEATURES THAT HAVE BEEN ADDED #
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+1. "hard" part feature has been added
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+# FEATURES TO BE ADDED #
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. limit the chances of guessing the color
