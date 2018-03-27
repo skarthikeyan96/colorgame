@@ -107,7 +107,9 @@ function game_logic()
     for(var i=0;i<squares.length;i++)
     {
         squares[i].addEventListener("click",function(){
-           var clickedcolor = this.style.background;
+           var clickedcolor = this.style.backgroundColor;
+		   console.log("clicked color :"+clickedcolor)
+		   console.log(picked_color)
            if(clickedcolor == picked_color)
            {
              change_color.style.backgroundColor = picked_color;
